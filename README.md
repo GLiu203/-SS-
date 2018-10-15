@@ -1,2 +1,3 @@
-# -SS-
-How I built my own vps with Bandwagon, step by step, for non-coders!
+用搬瓦工搭梯子的教程——小白教程
+
+1. 在搬瓦工买服务器：https://bwh1.net/
